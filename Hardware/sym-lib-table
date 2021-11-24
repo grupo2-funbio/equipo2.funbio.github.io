@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name KV-040)(type Legacy)(uri ${KIPRJMOD}/KV-040.lib)(options "")(descr ""))
+  (lib (name "Step up MT3608")(type Legacy)(uri "${KIPRJMOD}/Step up MT3608.lib")(options "")(descr ""))
+)
